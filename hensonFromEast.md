@@ -18,4 +18,4 @@ You see Jim Henson sitting on a wicker chair, drinking a cup of coffee.
 
 He walks over to a table and picks up a couple puppets...
 
-[They begin to sing](https://www.youtube.com/watch?v=XLeUvZvuvAs)
+[They begin to sing](https://www.youtube.com/watch?v=XLeUvZvuvAs)  
