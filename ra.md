@@ -9,8 +9,9 @@ You look closer.
 [Space is the place](https://www.youtube.com/watch?v=ZoNBMIbMDD0)  
 [Outer space employment agency](https://www.youtube.com/watch?v=iDwn0lsxDGg) 
 [Sun Ra lecture at UC Berkely](https://www.youtube.com/watch?v=Cfy2BpbkGe8&t=11s)  
+[Sun Ra on "Night Music", 1989](https://www.youtube.com/watch?v=rmqe_v11q3U)  
  
-You might be able to reach the mouth of the Monae by following the coast north.  
+You might be able to reach the mouth of the Monáe by following the coast north.  
 
 To the south you can make out people and animals in the distance.    
 
