@@ -1,0 +1,7 @@
+# West wing
+
+The stacks stretch on endlessly. Browsing, you notice a few titles.  
+
+
+[Go to the articles in the east wing](articles.html)  
+[Leave the library](crossroads.html)
