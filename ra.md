@@ -7,12 +7,13 @@ You look closer.
 [Sun Ra and the Arkestra Dancing in Egypt and Itally](https://www.youtube.com/watch?v=5azChH6Z7QA)   
 [An epic tale of good and evil](https://www.youtube.com/watch?v=7iAQCPmpSUI)  
 [Space is the place](https://www.youtube.com/watch?v=ZoNBMIbMDD0)  
-[Outer space emplyment](https://www.youtube.com/watch?v=iDwn0lsxDGg) 
+[Outer space employment agency](https://www.youtube.com/watch?v=iDwn0lsxDGg) 
+[Sun Ra lecture at UC Berkely](https://www.youtube.com/watch?v=Cfy2BpbkGe8&t=11s)  
  
 You might be able to reach the mouth of the Monae by following the coast north.  
 
 To the south you can make out people and animals in the distance.    
 
-[Walk north up the cost](monaeSouth.html)  
-[Walk south down the coast](caravanNoth.html)  
-[Walk east up the river](forkWest.html)  
+[North up the cost](monaeSouth.html)  
+[South down the coast](caravan.html)  
+[East up the river](forkWest.html)  
