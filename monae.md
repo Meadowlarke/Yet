@@ -6,6 +6,7 @@ You look closer.
 
 [Dancing in a sanitorium](https://www.youtube.com/watch?v=pwnefUaKCbc)  
 [Time traveleing rebels](https://www.youtube.com/watch?v=tEddixS-UoU)
+[Love story begins in show-droid nightclub](https://www.youtube.com/watch?v=Oxls2xX0Clg)  
 
 
 There is a road heading west.   
