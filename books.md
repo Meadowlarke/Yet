@@ -2,8 +2,8 @@
 
 The stacks stretch on endlessly. Browsing, you notice a few titles.  
 
-[Sun Ra's Chicago]()  
-[Bluetopia]()
+[Sun Ra's Chicago](http://library.lol/main/B55E41A8B4ED14DE40C61B506590DDAD)  
+[Bluetopia](https://archive.org/details/blutopiavisionso0000lock)
 
 
 
