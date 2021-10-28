@@ -10,6 +10,7 @@ You look closer.
 [Outer space employment agency](https://www.youtube.com/watch?v=iDwn0lsxDGg) 
 [Sun Ra lecture at UC Berkely](https://www.youtube.com/watch?v=Cfy2BpbkGe8&t=11s)  
 [Sun Ra on "Night Music", 1989](https://www.youtube.com/watch?v=rmqe_v11q3U)  
+[Nuclear War](https://www.youtube.com/watch?v=xz3o__1uAFo)
  
 You might be able to reach the mouth of the Monáe by following the coast north.  
 
