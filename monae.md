@@ -7,10 +7,10 @@ You look closer.
 [Tightrope](https://www.youtube.com/watch?v=pwnefUaKCbc)
 
 
-You might be able to reach the mouth of the Ra by walking down the coast.  
+There is a road heading west.   
 
-There is a road heading back west. 
+You can walk south down the coast.  
 
-[South to the mouth of the Ra](ra.html)  
+[South down the coast](ra.html)  
 [East up the Monáe](henson.html)  
 [West following the road](crossroads.html)
