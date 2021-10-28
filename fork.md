@@ -18,6 +18,6 @@ He stands up on long spindly legs, gestures: "To the northwest is the Monae, and
 
 You thank him, and wish him a sunny day.  
 
-[Northwest along the Monae](hensonFromEast.html)  
+[Northwest along the Monae](henson.html)  
 [Southwest along the Ra](raEast.html)  
 [East to the bridge](bridge.html)

@@ -1,6 +1,4 @@
-# The Monae
-
-You follow the Monae to the northwest. 
+# Along the Monae
 
 You see Jim Henson sitting on a wicker chair, drinking a cup of coffee. 
 

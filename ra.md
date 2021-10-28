@@ -16,6 +16,6 @@ You might be able to reach the mouth of the Monáe by following the coast north.
 
 To the south you can make out people and animals in the distance.    
 
-[North up the cost](monaeSouth.html)  
+[North up the cost](monae.html)  
 [South down the coast](caravan.html)  
 [East up the river](forkWest.html)  
