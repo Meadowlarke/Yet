@@ -5,7 +5,6 @@ An empty crossroads on a rolling plane.
 A signpost reads: 
 
 NORTH TO LIBRARY: NOT FAR  
-
 WEST TO MONÁE: PRETTY FAR  
 
 [Go north to the library](library.html)  
