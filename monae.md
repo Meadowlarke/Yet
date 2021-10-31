@@ -1,11 +1,11 @@
 # The mouth of the Monáe  
 
-The coast is rocky and dotted with tidepools. Across the top of each pool you can make out the gohstly image of a different world.
+The coast is rocky and dotted with tidepools. Across the top of each pool you can make out the ghostly image of a different world.
 
 You look closer.  
 
-[Dancing in a sanitorium](https://www.youtube.com/watch?v=pwnefUaKCbc)  
-[Time traveleing rebels](https://www.youtube.com/watch?v=tEddixS-UoU)  
+[Dancing in a sanatorium](https://www.youtube.com/watch?v=pwnefUaKCbc)  
+[Time travelling rebels](https://www.youtube.com/watch?v=tEddixS-UoU)  
 [Love story begins in show-droid nightclub](https://www.youtube.com/watch?v=Oxls2xX0Clg)  
 
 
