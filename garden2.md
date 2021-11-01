@@ -1,6 +1,6 @@
 # The Garden
 
-You retun to the garden. It is nice here.
+You return to the garden. It is nice here.
 
 [Go north to the river](bridge.html)  
 [Go south to the desert](desert.html)  
