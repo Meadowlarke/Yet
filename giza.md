@@ -6,4 +6,4 @@ In a few days another caravan will cross the desert.
 
 [Visit the space ship](spaceShip.html)   
 [Visit the pyramids](pyramid.html)  
-[Wait for the carvan](raSouth.html)
+[Wait for the caravan](raSouth.html)
