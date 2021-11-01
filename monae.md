@@ -14,5 +14,5 @@ There is a road heading west.
 You can walk south down the coast.  
 
 [South down the coast](ra.html)  
-[East up the Monáe](henson.html)  
-[West following the road](roadWest.html)
+[Southeast up the Monáe](henson.html)  
+[East following the road](roadWest.html)
