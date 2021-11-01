@@ -20,4 +20,4 @@ You thank him, and wish him a sunny day.
 
 [Northwest along the Monae](henson.html)  
 [Southwest along the Ra](raEast.html)  
-[East to the bridge](bridge.html)
+[East to the bridge](bridgeWest.html)
