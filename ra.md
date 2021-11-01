@@ -9,7 +9,7 @@ You look closer.
 [Outer space employment agency](https://www.youtube.com/watch?v=iDwn0lsxDGg) 
 [Nuclear War](https://www.youtube.com/watch?v=xz3o__1uAFo)
 
-[*Space is the Place*(1974), An epic tale of salvation](https://www.youtube.com/watch?v=7iAQCPmpSUI)  
+[*Space is the Place* (1974), An epic tale of salvation](https://www.youtube.com/watch?v=7iAQCPmpSUI)  
 [*Sun Ra: A Joyful Noise* (1980), a visit with Ra and the Archestra](https://www.youtube.com/watch?v=6ioFrtlNXZk)  
 
 [Sun Ra on "Night Music", 1989](https://www.youtube.com/watch?v=rmqe_v11q3U)  
