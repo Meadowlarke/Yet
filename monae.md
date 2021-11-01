@@ -12,6 +12,10 @@ You look closer.
 [Love story begins in show-droid nightclub](https://www.youtube.com/watch?v=Oxls2xX0Clg)  
 [Django Jane and a cast of androids](https://www.youtube.com/watch?v=mTjQq5rMlEY)  
 
+[Interview with Monáe on *CNET*](https://www.youtube.com/watch?v=WLHAa-1D2WU)  
+
+[*Dirty Computer,* an emotion picture](https://www.youtube.com/watch?v=jdH2Sy-BlNE)  
+
 
 There is a road heading west.   
 
