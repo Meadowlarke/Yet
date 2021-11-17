@@ -1,0 +1,1 @@
+sed -i 's|href="http|target="_blank" href="http|g' foo.html
